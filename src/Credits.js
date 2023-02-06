@@ -12,7 +12,7 @@ export default function Credits() {
                 Coded by vijay,{" "}
                 <a
                   className="link-github"
-                  href="https://github.com/milicodes/weather-app-react"
+                  href="https://github.com/vijay-vj5/Weather-App-React"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
